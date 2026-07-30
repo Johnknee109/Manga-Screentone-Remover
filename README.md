@@ -98,7 +98,7 @@ https://github.com/xinntao/Real-ESRGAN
 
 https://huggingface.co/ShadowB/Manga109-panel-balloon-text-yolov26-segmentation
 
-本專案使用 ShadowB 提供的 YOLO26s 漫畫版面分析模型。
+本專案使用 ShadowB 提供的 YOLO26s 漫畫分割模型。
 
 該模型可分割：
 
